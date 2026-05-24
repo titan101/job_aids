@@ -1,11 +1,11 @@
-# Job Aids
+﻿# Job Aids
 
-Downloadable technical job aids created by Varun Sinha.
+Public technical job aids maintained by Varun Sinha.
 
-## BGP ISP Troubleshooting Guide
+## Downloads
 
-[Download the PNG](BGP_ISP_Troubleshooting_Guide.png)
+- [BGP_Troubleshooting_Job_Aid.png](BGP_Troubleshooting_Job_Aid.png)
 
-![BGP ISP Troubleshooting Guide](BGP_ISP_Troubleshooting_Guide.png)
+## Access
 
-This repository is public for read/download access. Issues, wiki, projects, and discussions are disabled so public visitors cannot write content here.
+This repository is public for read/download access. Public issues, wiki, projects, and discussions are disabled. Publishing is limited to the repository owner.
