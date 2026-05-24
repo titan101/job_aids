@@ -7,7 +7,10 @@ Public technical job aids maintained by Varun Sinha.
 - [BGP_ISP_Troubleshooting_Guide.pdf](BGP_ISP_Troubleshooting_Guide.pdf)
 - [BGP_Troubleshooting_FlowChart.png](BGP_Troubleshooting_FlowChart.png)
 - [BGP_Troubleshooting_Job_Aid.png](BGP_Troubleshooting_Job_Aid.png)
-- [sr_guide.png](sr_guide.png)
+- [RPKI_carousel.pdf](RPKI_carousel.pdf)
+- [RPKI_CHATGPT_PROMPTS.md](RPKI_CHATGPT_PROMPTS.md)
+- [RPKI_GUIDE.md](RPKI_GUIDE.md)
+- [RPKI_guide.png](RPKI_guide.png)
 
 ## Access
 
